@@ -4,7 +4,7 @@
 
 Copy `passwordrecovery.php` to wordpress site folder.
 
-#####Change authorisation password
+####Change authorisation password
 
 Open file and change your authorisation **login** and **password** here:
 
@@ -18,5 +18,5 @@ define('PS_PASSWORD', 'password');
 
 Default login is **admin** and password is **password**
 
-#####Run
+####Run
 Open link `{your site url}/passwordrecovery.php` and have fun!
